@@ -112,13 +112,39 @@ flowchart TD
 
 ---
 
+## Workflow Demonstration
+
+### Automation Overview
+
+Visão geral da automação desenvolvida no n8n,
+demonstrando a orquestração de fluxos, roteamento
+condicional, integração com banco de dados e
+gerenciamento de sessões.
+
+<p align="center">
+  <img src="./workflow-overview.png.png" width="70%" alt="n8n Automation Workflow"/>
+</p>
+
+### Testing & Validation
+
+- Appointment scheduling validation.
+- Appointment cancellation validation.
+- Session state management.
+- Business rules validation.
+- Automated testing scenarios.
+
+---
+
 ## Project Status
 
-- Current stage: Active development
-- Environment: Local development
-- Scheduling and cancellation workflows: Implemented
-- WhatsApp production integration: Pending
-- Source code: Private
+| Component | Status |
+|---|---|
+| Development | In progress |
+| Environment | Local development |
+| Scheduling workflow | Implemented |
+| Cancellation workflow | Implemented |
+| WhatsApp production integration | Pending |
+| Source code | Private |
 
 ---
 
@@ -141,3 +167,9 @@ Software Developer & Co-founder at VHC Soluções
 
 [GitHub Profile](https://github.com/zzovittin) |
 [Company Website](https://vhcsolucoes.com.br)
+
+---
+
+<p align="center">
+  Automating processes. Connecting systems. Solving problems.
+</p>
